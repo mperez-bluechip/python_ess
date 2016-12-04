@@ -4,6 +4,7 @@
 # Copyright 2010 The BearHeart Group, LLC
 
 def main():
-    print("This is the syntax-working.py file.")
+    print("This is the syntax-whitespace.py file.")
+    print('this is another line')
 
 if __name__ == "__main__": main()
